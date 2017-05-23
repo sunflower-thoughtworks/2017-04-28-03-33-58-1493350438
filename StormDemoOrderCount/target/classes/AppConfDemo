@@ -1,7 +1,0 @@
-{
-  "count_field": "id",
-  "filter": {
-    "_mt_action": "PAY",
-    "_mt_level": "INFO"
-  }
-}
